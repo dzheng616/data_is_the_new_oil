@@ -1,7 +1,7 @@
-# this repository is used to store sample code for SQL (Microsoft SQL Server)
-## Contents List:
-##  SQL feature extraction query
-##  Functions to extract numberic numbers only
-##  Functions to extract alpha-numberic only
-##  Functions to convert UTC ticks to datetime
+####  Content List:
+####  Feature Extraction Sample Query
+######  (CTE, Windows Functions, Aggregations and more...)
+####  Parsing Strings to Alpha Numeric
+####  Parsing Strings to Numeric Only
+####  Ticks to Datetime Function
 
