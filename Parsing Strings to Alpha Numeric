@@ -1,0 +1,27 @@
+/****** Object:  UserDefinedFunction [dbo].[udf_GetAlphaNumeric] ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE FUNCTION [dbo].[udf_GetAlphaNumeric] (@String [VARCHAR](8000)) RETURNS VARCHAR(8000)
+AS
+BEGIN
+DECLARE @AlphaNumeric VARCHAR(50)
+
+SET @AlphaNumeric = '%[^a-z0-9]%'
+
+  BEGIN
+    WHILE PATINDEX(@AlphaNumeric,@String) > 0
+      BEGIN
+	    SET @String = STUFF(@String,PATINDEX(@AlphaNumeric,@String),1,'')
+      END
+  END
+
+RETURN @String
+
+END
+GO
+
+
