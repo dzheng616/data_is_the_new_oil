@@ -1,4 +1,4 @@
-# This repository is used to store sample code 
+# This repository is used to store sample codes 
 # Please see:
 ##    SQL code in branch SQL(Microsoft-SQL-SERVER)
 ####  Content List:
