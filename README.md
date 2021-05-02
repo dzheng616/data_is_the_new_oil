@@ -14,7 +14,7 @@
 ###### 4. Model results and feature importance are interpreted for validation. 
 ###### 5. Business values are calculated based on communication with end users. Threshold sweep is performed to optimized business value. 
 ###### 6. Compare business value generated with outdated model and automatically update to outperforming model. 
-###### 7. Results communicated to customer with business value and recommendation dashboard. 
+###### 7. Communicated to customer with business value and recommendation dashboard. 
 
 
 ##    SQL (Microsoft SQL SERVER)
