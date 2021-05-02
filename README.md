@@ -9,7 +9,7 @@
 
 #####  In this project, the goal is to re-train a model for predicting tubing failures and set up automatic process for further model update. To do so, the following analysis were performed:
 ###### - Load data and features from Azure Data Warehouseto Databricks. Data prepared for modeling and separated into training, testing and validation dataset. Sampling steps are taken to address data distribution.  
-###### - Modeling with drid search and cross validation are applied to XGboost model for optimization. XGboost is chosen from many iteration test (Random Forest, XGBoost, GBC, Logistic Regression and etc.) 
+###### - Modeling with grid search and cross validation are applied to XGboost model for optimization. XGboost is chosen from many iteration test (Random Forest, XGBoost, GBC, Logistic Regression and etc.) 
 ###### - Business values are calculated based on communication with end users. Model results and feature importance are interpreted for validation.  Threshold sweep is performed to optimized business value. 
 ###### - Compare business value generated with outdated model and automatically update to outperforming model. Communicated to customer with business value and recommendation dashboard. 
 
