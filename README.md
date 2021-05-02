@@ -16,7 +16,7 @@
 
 
 ### 2. Time Series Feature Extration and Prediction Model 
-####  [Databricks - Time Series Feature Extraction and Prediction Model](https://github.com/dzheng616/data_is_the_new_oil/blob/9c262e659f99db05342f96cfd2543c6ed66c755f/Python/Time%20Series%20Feature%20Extraction%20and%20Prediction%20Model.ipynb)
+####  [Time Series Feature Extraction and Prediction Model](https://github.com/dzheng616/data_is_the_new_oil/blob/9c262e659f99db05342f96cfd2543c6ed66c755f/Python/Time%20Series%20Feature%20Extraction%20and%20Prediction%20Model.ipynb)
 #####  (Time Series Feature Calculation, Grid Search and Hyperparameter Tuning, Model and Feature Interpretaion...)
 
 #####  Insights and predictions are needed to be drived from a high frequency sensor time seires on motor equipment. After communication with multi-disciplines SMEs and exploratary data analysis, features are being extracted. Stadnard model iteration process implemented to predict for future failures. Features and models are been studied extensively to understand the relationship between data, calculated features, and failure probability. The following steps are taken:
