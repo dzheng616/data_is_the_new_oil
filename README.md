@@ -28,10 +28,10 @@
  
  
 ##    SQL (Microsoft SQL SERVER)
-
+#### 1.Data Aggregation and Feature Calculation
 ####  [Text and Time Series Feature Calculation Query](https://github.com/dzheng616/data_is_the_new_oil/blob/23afa03705ae7397bfe668941506ef92903b91e1/SQL/Feature%20Extraction%20Sample%20Query)
 ######  (CTE, Windows Functions, Aggregations and more...)
-####  Utility Function to Parse Strings and Convert Data
+####  2.Utility Function to Parse Strings and Convert Data
 ##### [Parsing Strings to Alpha Numeric](https://github.com/dzheng616/data_is_the_new_oil/blob/23afa03705ae7397bfe668941506ef92903b91e1/SQL/Parsing%20Strings%20to%20Alpha%20Numeric)
 #####  [Parsing Strings to Numeric Only](https://github.com/dzheng616/data_is_the_new_oil/blob/23afa03705ae7397bfe668941506ef92903b91e1/SQL/Parsing%20Strings%20to%20Numeric%20Only)
 #####  [Ticks to Datetime Function](https://github.com/dzheng616/data_is_the_new_oil/blob/23afa03705ae7397bfe668941506ef92903b91e1/SQL/Ticks%20to%20Datetime%20Function)
