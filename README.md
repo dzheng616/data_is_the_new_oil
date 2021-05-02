@@ -1,6 +1,3 @@
-Python(Databricks-and-Jupyter-Notebook)
-# This repository is used to store sample code for Python
-## Content List:
-## Databricks - Classification Prediction Model (XGboost)
-
-# Thanks
+####  Content List:
+####  Databricks - Classification Prediction Model (XGboost)
+######  (Data Import and Preparation, Grid Search and Hyperparameter Tuning, Model Interpretaion and Economic Value Calculation...)
