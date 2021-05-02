@@ -1,4 +1,3 @@
-# data_is_the_new_oil
 # this repository is used to store sample code for SQL (Microsoft SQL Server)
 ## Contents List:
 ##  SQL feature extraction query
