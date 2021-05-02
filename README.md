@@ -1,3 +1,3 @@
-# data_is_the_new_oil
-# this repository is used to store sample code for Python used in Databricks
+# This repository is used to store sample code for Python used in Databricks
+## Content List:
 ## Sample Prediction Model Project Code 
