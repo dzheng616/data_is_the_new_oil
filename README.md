@@ -7,7 +7,7 @@
 
 ##    SQL (Microsoft SQL SERVER)
 
-####  Feature Extraction Sample Query
+####  Text and Comment Feature Extraction Sample Query
 ######  (CTE, Windows Functions, Aggregations and more...)
 ####  Parsing Strings to Alpha Numeric
 ####  Parsing Strings to Numeric Only
