@@ -1,5 +1,5 @@
 # Data Analytics Projects and Codes
-# Please see:
+
 ##    SQL code in branch SQL(Microsoft-SQL-SERVER)
 ####  Content List:
 ####  Feature Extraction Sample Query
