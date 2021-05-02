@@ -5,5 +5,3 @@
 ####  Parsing Strings to Numeric Only
 ####  Ticks to Datetime Function
 
-# Thanks
-
