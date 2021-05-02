@@ -3,9 +3,9 @@
 ##    SQL code in branch SQL(Microsoft-SQL-SERVER)
 ####  Content List:
 ####  SQL feature extraction query (CTE, Windows Functions, Aggregations and more...)
-####  Functions to extract numberic numbers only
-####  Functions to extract alpha-numberic only
-####  Functions to convert UTC ticks to datetime
+####  Parsing Strings to Alpha Numeric
+####  Parsing Strings to Numeric Only
+####  Ticks to Datetime Function
 
 
 ##    Python code in branch Python(Databricks-and-Jupyter-Notebook)
