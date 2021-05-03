@@ -13,7 +13,7 @@
 ###### - Modeling with grid search and cross validation are applied to XGboost model for optimization. XGboost is chosen from many iteration test (Random Forest, XGBoost, GBC, Logistic Regression and etc.) 
 ###### - Business values are calculated based on communication with end users. Model results and feature importance are interpreted for validation.  Threshold sweep is performed to optimized business value. 
 ###### - Compare business value generated with outdated model and automatically update to outperforming model. Communicated to customer with business value and recommendation dashboard. 
- <img src="Python/Image/tubing failure feature importance.png" width="500">
+ <img src="Python/Image/tubing failure feature importance.png" width="500" height = "300"><img src="Python/Image/highest economic value for tubing threshold sweep.png" width="500">
 
 ### 2. Time Series Feature Extration and Prediction Model 
 ####  [Time Series Feature Extraction and Prediction Model](https://github.com/dzheng616/data_is_the_new_oil/blob/9c262e659f99db05342f96cfd2543c6ed66c755f/Python/Time%20Series%20Feature%20Extraction%20and%20Prediction%20Model.ipynb)
@@ -25,7 +25,7 @@
 ###### - Features and feature importance are been studied extensively with SMEs to understand relationship between features and failures. Technique such as summary plot, dependence plot, and local feature importance per predictions were used. 
 ###### - Communicated to customer on finding and business value recommendation. 
  <img src="Python/Image/Motor Failure Shap.png" width="500">  <img src="Python/Image/Motor Failure Shap depend.png" width="500">
- 
+
  
 ##    SQL (Microsoft SQL SERVER)
 #### 1.Data Aggregation and Feature Calculation
