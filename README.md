@@ -40,12 +40,12 @@
 
 ##    Reporting Dashbaord (Spotfire)
 ####  Exploratory Data Analysis for Completion Production by Area
- <img src="Python/Image/completion feature analysis.png" width="500">
+ <img src="Python/Image/completion feature analysis.png" width="900">
 ####  Daily Report on Newset Drilling Progress and Incidents
- <img src="Python/Image/drilling daily report.png" width="500">
+ <img src="Python/Image/drilling daily report.png" width="900">
 ####  Profile, Design and Performance Comparison of Equipment Characteristic
- <img src="Python/Image/BHA feature analysis.png" width="500">
+ <img src="Python/Image/BHA feature analysis.png" width="900">
 ####  Analytics Academy Progress Report
- <img src="Python/Image/spotfire-leaderboard.png" width="500">
+ <img src="Python/Image/spotfire-leaderboard.png" width="900">
 
 # Thanks
