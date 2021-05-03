@@ -24,8 +24,8 @@
 ###### -  Time series features calculated and prepared for modeling.Grid search and cross validation are applied to model for optimization. XGboost is chosen from many iteration test (RNN,Random Forest, GMC and etc.) 
 ###### - Features and feature importance are been studied extensively with SMEs to understand relationship between features and failures. Technique such as summary plot, dependence plot, and local feature importance per predictions were used. 
 ###### - Communicated to customer on finding and business value recommendation. 
- <img src="Python/Image/Motor Failure Shap.png" width="500">  <img src="Python/Image/Motor Failure Shap depend.png" width="500">
- 
+ <img src="Python/Image/Motor Failure Shap.png" width="500">  <img src="Python/Image/Motor Failure Shap depend.png" width="500"> <img src="Python/Image/Motor Failure Shap.png" width="500">  <img src="Python/Image/highest economic value for tubing threshold sweep.png" width="500">
+
  
 ##    SQL (Microsoft SQL SERVER)
 #### 1.Data Aggregation and Feature Calculation
