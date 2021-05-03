@@ -49,7 +49,7 @@
 ####  Profile, Design and Performance Comparison of Equipment Characteristic
  <img src="Python/Image/BHA feature analysis.png" width="1100">
  
-####  Analytics Academy Progress Report
+####  Analytics Academy Champion Gameboard
  <img src="Python/Image/spotfire-leaderboard.png" width="1100">
 
 # Thanks
