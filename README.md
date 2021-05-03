@@ -27,7 +27,7 @@
  <img src="Python/Image/Motor Failure Shap.png" width="500">  <img src="Python/Image/Motor Failure Shap depend.png" width="500">
 
  
-##    SQL (Microsoft SQL SERVER)
+##    SQL (Microsoft SQL Server)
 #### 1.Data Aggregation and Feature Calculation
 ####  [Text and Time Series Feature Calculation Query](https://github.com/dzheng616/data_is_the_new_oil/blob/23afa03705ae7397bfe668941506ef92903b91e1/SQL/Feature%20Extraction%20Sample%20Query)
 ######  (CTE, Windows Functions, Aggregations and more...)
