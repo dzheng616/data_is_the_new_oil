@@ -46,6 +46,6 @@
  <img src="Python/Image/BHA feature analysis.png" width="1100">
  
 ####  Analytics Academy Champion Gameboard
- <img src="Python/Image/spotfire-leaderboard.png" width="1100">
+ 
 
 # Thanks
